@@ -9,9 +9,14 @@ when OpenShift v3 becomes available. Just enough for a Solutions Architect to be
 
 Phases:
 [1] Text based python script to perform product search against Tesco API. [Complete]
+
 [2] Convert [1] to a Web based application running on an OpenShift Online gear / container [In Progress]
+
 [3] Create a shim HTML5 web app on Cisco EMSP to front-end [2] and make contextual to geo-location as a demo
+
 [4] Possibly create a native web app.
+
 [5] Fork another repo to integrate other APIs - Meraki, Eagle Eye, Evrythng and see what happens...
+
 
 
