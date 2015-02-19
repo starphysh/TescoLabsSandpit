@@ -46,7 +46,7 @@ if NumberOfThingsFound == 0 :
 	print
 	exit
 else:
-	# Hooray - we must have found something they stock! 
+	# Hooray - we must have found something they stock!! 
 	print
 	# print product_list_raw
 	print 'Successfully searched and found', NumberOfThingsFound, product, 'products. Here are the first ', NumberOfThingsOnPage
