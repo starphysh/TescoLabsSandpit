@@ -8,6 +8,7 @@ It also gives me a personal opportunuty to learn Python, RESTful APIs, JSON, Git
 when OpenShift v3 becomes available. Just enough for a Solutions Architect to become dangerous. 
 
 Phases:
+
 [1] Text based python script to perform product search against Tesco API. [Complete]
 
 [2] Convert [1] to a Web based application running on an OpenShift Online gear / container [In Progress]
