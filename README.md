@@ -19,5 +19,10 @@ Phases:
 
 [5] Fork another repo to integrate other APIs - Meraki, Eagle Eye, Evrythng and see what happens...
 
+Notes:
+
+https://secure.techfortesco.com/tescoapiweb/Support.aspx
+
+http://www.tescolabs.com/?p=7171
 
 
