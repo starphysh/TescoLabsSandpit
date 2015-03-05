@@ -2,10 +2,9 @@
 
 This is a semi-serious attempt at using TescoLabs APIs to create some code to demo the potential of organisation APIs
 to stimulate for Retail innovation external to the Enterprise (in this case Tesco).
-Examples might include Walgreens, UK Post Office and Tesco.
+Other examples might include Walgreens and UK Post Office/RMG
 
-It also gives me a personal opportunuty to learn Python, RESTful APIs, JSON, GitHub, PaaS, OpenShift and eventually Docker
-when OpenShift v3 becomes available. Just enough for a Solutions Architect to become dangerous. 
+Aside from giving me a personal opportunuty to learn Python, RESTful APIs, JSON, GitHub, PaaS, OpenShift and eventually Docker when OpenShift v3 becomes available. Just enough for a Solutions Architect to become dangerous :-)
 
 Phases:
 
@@ -20,6 +19,8 @@ Phases:
 [5] Fork another repo to integrate other APIs - Meraki, Eagle Eye, Evrythng and see what happens...
 
 Notes:
+
+Need to register for Tesco Labs API if you want to code your own version and get a developer and application key:
 
 https://secure.techfortesco.com/tescoapiweb/Support.aspx
 
