@@ -1,5 +1,7 @@
 # TescoLabsSandpit
 
+[![Join the chat at https://gitter.im/starphysh/TescoLabsSandpit](https://badges.gitter.im/starphysh/TescoLabsSandpit.svg)](https://gitter.im/starphysh/TescoLabsSandpit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a semi-serious attempt at using TescoLabs APIs to create some code to demo the potential of organisation APIs
 to stimulate for Retail innovation external to the Enterprise (in this case Tesco).
 Other examples might include Walgreens and UK Post Office/RMG
